@@ -45,4 +45,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to Production
-        run: echo "Deploying to production..."
+        run: echo "Deploying to production.."
